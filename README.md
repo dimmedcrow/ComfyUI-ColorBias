@@ -1,6 +1,7 @@
 
 # ComfyUI Color Bias
 
+<img width="614" height="819" alt="output" src="https://github.com/user-attachments/assets/77404798-5290-40f7-b245-8e7daf7cfdab" />
 
 `Color Bias` is a custom ComfyUI node that does two things at once:
 
