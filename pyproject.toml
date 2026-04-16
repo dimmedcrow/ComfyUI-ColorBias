@@ -31,7 +31,7 @@ Documentation = "https://github.com/dimmedcrow/ComfyUI-ColorBias/wiki"
 [tool.comfy]
 PublisherId = "dimmedcrow"
 DisplayName = "ComfyUI-ColorBias"
-Icon = ""
+Icon = "https://github.com/dimmedcrow/ComfyUI-ColorBias/blob/main/assets/203824.png?raw=true"
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
 
