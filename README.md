@@ -12,6 +12,7 @@ The node is designed to steer color without requiring a separate image reference
 For models such as Anima, SD15, or SDXL (and variants of it - illustrious, noobai) that have a strong connection between color conditioning and the latent space, this can be a powerful way to achieve more vibrant and accurate colors in your generations.
 
 ## Node
+<img width="365" height="759" alt="204858" src="https://github.com/user-attachments/assets/15a9e5a0-e53d-4cbf-b847-25653c744b26" />
 
 **Display name:** `Color Bias`
 
